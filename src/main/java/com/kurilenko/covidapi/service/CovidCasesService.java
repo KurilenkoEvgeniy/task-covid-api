@@ -5,7 +5,6 @@ import com.kurilenko.covidapi.domain.entity.CovidCasesEntity;
 import com.kurilenko.covidapi.domain.repository.CovidCasesRepository;
 import com.kurilenko.covidapi.dto.CountryCovidStatsDto;
 import com.kurilenko.covidapi.dto.CovidCasesDto;
-import com.kurilenko.covidapi.util.BatchPersistService;
 import java.time.LocalDate;
 import java.util.Collection;
 import java.util.List;

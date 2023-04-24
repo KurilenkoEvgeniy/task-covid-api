@@ -1,4 +1,4 @@
-package com.kurilenko.covidapi.util;
+package com.kurilenko.covidapi.service;
 
 import com.kurilenko.covidapi.domain.entity.BaseEntity;
 import jakarta.persistence.EntityManager;
